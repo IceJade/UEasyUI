@@ -15,6 +15,7 @@
   SwitchButton: 状态切换按钮
   
 2.滑动列表
+
   EnhancedScroller: 支持子项不等高或者不等宽的滑动列表
   
   UIMultiScroller: 同时支持单排滑动列表和网格类型的滑动列表
