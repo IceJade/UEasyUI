@@ -1,15 +1,22 @@
 致力于实现适用于Unity项目的简单高效的UI组件封装库，主要包含有：
 
 1.各种特色的按钮
+
   CDButton: 防止快速点击按钮
+  
   GroupButton: 组按钮, 防止同时快速点击多个按钮
+  
   CheckBoxButton: 复选框按钮
+  
   ToggleButton: 标签、切换类按钮
+  
   PointerButton: 支持点击和长按的按钮
+  
   SwitchButton: 状态切换按钮
   
 2.滑动列表
   EnhancedScroller: 支持子项不等高或者不等宽的滑动列表
+  
   UIMultiScroller: 同时支持单排滑动列表和网格类型的滑动列表
 
 3.文本框
